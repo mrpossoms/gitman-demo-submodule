@@ -1,0 +1,3 @@
+[submodule "mrpossoms"]
+	path = mrpossoms
+	url = git@github.com:mrpossoms/mrpossoms.git
